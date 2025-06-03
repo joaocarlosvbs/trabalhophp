@@ -1,2 +1,2 @@
-# trabalhophp
-Trabalho de PHP na matéria Linguagem de programação (2°BCC de 2025)
+# lpbccphp2025
+Projeto LP - Ciências da Computação
